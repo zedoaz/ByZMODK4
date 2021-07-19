@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><nsx ver="1.0" rev="571" lt-id="131" anno="" min-sys-ver=""><spc id="33537" 
+rep="t" multi="o" anno=""><mtrl id="1080424898" mname="Playstation Game Store Default Banner A" from="2008-01-01T00:00:00.000Z" 
+until="2108-01-01T00:00:00.000Z" lastm="2015-06-09T01:56:15.000Z" anno="">
+<name>Game Store</name><owner>SCEA</owner>
+<desc>PlayStation Game Store</desc><url 
+type="1">http://nsx.np.dl.playstation.net/nsx/material/b/b786496313e01ceda47b6c5d6ea60693ad038667-30594.png</url><target 
+type="u">psns:browse?top=game</target><cntry agelmt="6">ar</cntry><cntry agelmt="6">bo</cntry><cntry agelmt="6">br</cntry><cntry 
+agelmt="6">ca</cntry><cntry agelmt="6">cl</cntry><cntry agelmt="6">co</cntry><cntry agelmt="6">cr</cntry><cntry 
+agelmt="6">ec</cntry><cntry agelmt="6">gt</cntry><cntry agelmt="6">hn</cntry><cntry agelmt="6">mx</cntry><cntry 
+agelmt="6">ni</cntry><cntry agelmt="6">pa</cntry><cntry agelmt="6">pe</cntry><cntry agelmt="6">py</cntry><cntry 
+agelmt="6">sv</cntry><cntry agelmt="6">us</cntry><cntry agelmt="6">uy</cntry><lang>all</lang></mtrl><mtrl id="1080778886" 
+mname="Catalog Banner A" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-04-09T20:52:07.000Z" 
+anno=""><url 
+type="2">http://dl.dropboxusercontent.com/s/o4xk49j9pkcsy6f/HAMM.png</url><target 
+type="c">psvp:play?url=https://ia601503.us.archive.org/16/items/hamm_20201119/HAMM.mp4</target><cntry agelmt="0">br</cntry><lang>7</lang></mtrl><mtrl id="1080778615" mname="Add-ons Banner 
+A" from="2019-02-20T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-02-20T19:53:35.000Z" anno=""><url 
+type="2">http://nsx.np.dl.playstation.net/nsx/material/b/b39f8bc7dd1ba36204382651a6d31863f885c8c1-1206980.jpg</url><target 
+type="c">STORE-MSF76009-ADDONSBYTITLE</target><cntry agelmt="0">br</cntry><lang>7</lang></mtrl><mtrl id="1080778619" mname="Apps 
+Banner A" from="2019-02-20T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-02-20T19:56:09.000Z" anno=""><url 
+type="2">http://nsx.np.dl.playstation.net/nsx/material/f/f164403a5a50612e6230eaf6aa903e6a0381c5d8-1206984.jpg</url><target 
+type="c">STORE-MSF76009-ALLAPPS</target><cntry agelmt="0">br</cntry><lang>7</lang></mtrl><mtrl id="1080778683" mname="Themes Banner 
+A" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-03-01T00:58:47.000Z" anno=""><url 
+type="2">http://nsx.np.dl.playstation.net/nsx/material/9/9b5b9aa0d4ca11bbe00f6984f9b73024d5cd4d22-1207272.jpg</url><target 
+type="c">STORE-MSF76009-PS3ALLTHEMES</target><cntry agelmt="0">br</cntry><lang>7</lang></mtrl><mtrl id="1080778672" mname="Avatars 
+Banner A" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-03-01T00:48:53.000Z" anno=""><url 
+type="2">http://nsx.np.dl.playstation.net/nsx/material/7/7f1771e586b8d0821d46a9e790c03ef064ca1332-1207261.jpg</url><target 
+type="c">STORE-MSF76009-AVATARSALLAVATAR</target><cntry agelmt="0">br</cntry><lang>7</lang></mtrl></spc></nsx>
